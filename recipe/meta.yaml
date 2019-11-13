@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/looooo/freecad.python/archive/{{ version }}.tar.gz
-  sha256: "c237b091e556c47288ba598584387453a5ad21cd39be3d43b6c47bd9c6d7d61f"
+  sha256: "aa44bd1577fc4f37dde9b9aad25ae0bb4ecf3579d8811b330f09bab520b92053"
 
 build:
   number: 0
